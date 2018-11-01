@@ -1,6 +1,6 @@
 This project is a simple implementation of kad-dht bootstrap node based on go-libp2p.
 
-### Useage:
+### Usage:
 1. Run as default(bind on '0.0.0.0' port:4001):
 * for linux: `./bootnode.amdx64-linux`
 * for windows: `bootnode.amdx64-windows.exe`
